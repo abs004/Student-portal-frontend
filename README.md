@@ -1,4 +1,4 @@
-# Apex College Student Portal
+# College Student Portal
 
 A sleek, modern, and highly responsive role-based academic portal built with **React** and styled using raw, custom **CSS** variables for maximum performance and design precision. 
 
