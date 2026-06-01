@@ -120,7 +120,7 @@ export default function Login({ onLoginSuccess }) {
         </form>
 
         <div className="login-footer">
-          <p>Don't have an account? <a href="#contact" className="support-link">Signup</a></p>
+          <p>Don't have an account? <a href="#signup" className="support-link">Signup</a></p>
         </div>
       </div>
     </div>
